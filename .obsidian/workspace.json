@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "31b604a799d2648a",
+        "id": "60f68ef6a4a82e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "24f6e6c010c9eb5a",
+            "id": "d6c5279646f5790d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "3. Atomic Notes/Untitled.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -80,35 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "921c5fa2d310e708",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c03d6baf78b04d00",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "183290a5ac283426",
             "type": "leaf",
             "state": {
@@ -120,25 +92,7 @@
             }
           },
           {
-            "id": "6de08aeba5383328",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
-            "id": "2e8b6a1506deba10",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "9dbbdbb7fec73c91",
+            "id": "d1fb75455c17e0a5",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,11 +100,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,13 +124,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9dbbdbb7fec73c91",
+  "active": "d6c5279646f5790d",
   "lastOpenFiles": [
-    "Tags/testing.md",
+    "3. Atomic Notes/Untitled.md",
+    "4. Tags/Text.md",
+    "4. Tags/Diss_reading.md",
+    "4. Tags/Dissertation.md",
+    "4. Tags/Speech.md",
+    "4. Tags/Accounting.md",
+    "4. Tags/Law.md",
+    "3. Atomic Notes/testing.md",
+    "4. Tags/Bioinspired.md",
+    "4. Tags/testing.md",
+    "3. Atomic Notes/bioinspired computing.md",
+    "3. Atomic Notes/Untitled 2.md",
+    "3. Atomic Notes/Untitled 1.md",
+    "Untitled.md",
+    "7. Templates/note template.md",
+    "7. Templates/Untitled.md",
+    "7. Templates",
+    "5. Index",
+    "6. Rough notes",
     "README.md",
-    "Files",
-    "Notes",
-    "Tags",
-    "Archieve"
+    "2. Files and Source",
+    "3. Atomic Notes",
+    "4. Tags",
+    "1. Archive"
   ]
 }
